@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "AgamzBot",
   "version": "12.1.0",
-  "description": "WhatsApp bot",
+  "description": "AgamzBot By @Agamzxzy",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
